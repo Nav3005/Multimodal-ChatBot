@@ -2,7 +2,7 @@
 
 Multimodal ChatBot is a Streamlit-based web application that leverages Google's Generative AI capabilities to provide advanced chatbot functionalities. The app can handle multimodal inputs, including text and images, and provides meaningful and context-aware responses.
 
-![GitHub Repo](https://img.shields.io/badge/GitHub-Nav3005-blue?logo=github) [![Repo](https://img.shields.io/badge/Repo-green?logo=github)](https://github.com/Nav3005/Multimodal-ChatBot)
+![ChatBot App]((https://nav3005-mcb.streamlit.app/))
 
 ---
 
